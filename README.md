@@ -1,6 +1,7 @@
 # command-line-basics
 
 #FHS
+
 FHS stands for the "Filesystem Hierarchy Standard," and it is a set of guidelines and standards for the layout of the file system in Unix-like operating systems. FHS defines the directory structure and the organization of files and directories within the file system, making it easier to maintain, administer, and share software and data across different Unix and Unix-like systems.
 The FHS standardizes the directory structure in Unix systems, ensuring a consistent layout across different distributions, which helps software developers and system administrators work with various Unix-based operating systems more easily.
 
